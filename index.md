@@ -18,9 +18,6 @@ page_sections:
   cta:
     url: https://github.com/forestryio/ubuild-jekyll/archive/master.zip
     button_text: Download
-- template: simple-header
-  block: header-3
-  logo: "/uploads/2018/12/20/link-hoang-31747-unsplash.jpg"
 - template: hero-banner-w-image
   block: hero-2
   headline: Tomorrow's Travel Today <br><strong>bespoke holidays just for you</strong>
@@ -30,7 +27,7 @@ page_sections:
     url: https://github.com/forestryio/ubuild-jekyll
     button_text: 'See on GitHub '
   image:
-    image: ''
+    image: "/uploads/2018/12/20/logo.png"
     alt_text: Product Shot
   background_image: "/uploads/2018/12/20/link-hoang-31747-unsplash.jpg"
 - template: content-feature
