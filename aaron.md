@@ -17,6 +17,5 @@ page_sections:
   image:
     image: "/uploads/2018/12/20/logo.png"
     alt_text: logo
-published: false
 
 ---
