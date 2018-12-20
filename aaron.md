@@ -3,6 +3,8 @@ title: Aaron
 layout: ''
 date: 2018-12-20 00:00:00 +0000
 page_sections:
+- template: navigation-header-w-button
+  block: header-2
 - template: hero-banner-w-image
   block: hero-2
   background_image: "/uploads/2018/12/20/link-hoang-31747-unsplash.jpg"
